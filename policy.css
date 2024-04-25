@@ -105,8 +105,10 @@ nav img{
 /*-------------------------------- Inquiries ------------------------------*/
 .inquiries{
   display:flex;
-  flex-wrap:wrap;
   align-items:center;
+  flex-wrap:wrap;
+  margin-right :100px;
+  margin-left:100px;
 }
 .inquiries-form,.inquiries-img{
   flex-basis:50%;
@@ -131,13 +133,49 @@ form input{
 .inquiries-button{
   width:100%;
   display:flex;
-  justify-content:space-between;
 }
 button{
   flex-basis:50%;
   padding:18px 0;
   border:2px solid #92daf7;
-  margin
+  margin:5px;
+  border-radius: 10px;
+  box-sizing:border-box;
+  transition: 0.25s;
+}
+
+button:hover{
+  color:white;
+  background-color: #92daf7;
 }
 
 /*-------------------------------- Footer ------------------------------*/
+.footer{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  flex-wrap:wrap;
+  margin-left:100px;
+  margin-right:100px;
+}
+.footer-logo{
+  flex-basis:31%;
+  width:25px;
+}
+
+.footer-sitemap{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  flex-wrap:wrap;
+  flex-basis:50%;
+}
+.footer-sitemap ul li{
+  list-style:none;
+}
+
+.footer-sitemap ul li a{
+  color:black;
+  text-decoration:none;
+  font-size:13px;
+}
