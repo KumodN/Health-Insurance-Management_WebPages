@@ -115,6 +115,9 @@ nav img{
 .inquiries-left-col,.inquiries-right-col{
   flex-basis:50%;
 }
+inquiries-left-col ,h1{
+  font-size: 40px;
+}
 .inquiries-right-col{
   width:100%;
 }
@@ -170,18 +173,19 @@ button:hover{
 }
 .footer-logo{
   flex-basis:31%;
-  width:25px;
+  width:15px;
 }
 
 .footer-sitemap{
   display:flex;
-  justify-content:space-between;
+  justify-content:space-around;
   align-items:center;
   flex-wrap:wrap;
   flex-basis:50%;
 }
 .footer-sitemap ul li{
   list-style:none;
+  font-size: 15px;
 }
 
 .footer-sitemap ul li a{
