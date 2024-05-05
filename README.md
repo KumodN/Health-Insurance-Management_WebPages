@@ -1,6 +1,6 @@
 # Health Insurance Management System
 
-![Health Insurance Management System](https://unsplash.com/photos/person-wearing-lavatory-gown-with-green-stethoscope-on-neck-using-phone-while-standing-L8tWZT4CcVQ)
+![Health Insurance Management System](https://images.app.goo.gl/iQbHL8SQwgVrar3m6)
 
 ## Introduction
 The Health Insurance Management System is a web-based application developed as a part of a university project. It is designed to streamline the process of managing health insurance policies, claims, and customer information. The system aims to provide a user-friendly interface for both administrators and users to efficiently handle various tasks related to health insurance.
@@ -34,7 +34,7 @@ The Health Insurance Management System is a web-based application developed as a
 
 ## Contributors
 - Kumod De Silva (@kumodcodes)
-- Savindu Thisanga (@)
+- Savindu Thisanga (@Savinduthisanga)
 - Malindu Jayawickrama
 - Tharuka Umayanga
 - Lakshan 
