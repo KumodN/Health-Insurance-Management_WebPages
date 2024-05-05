@@ -1,6 +1,7 @@
 # Health Insurance Management System
 
-![Health Insurance Management System](https://images.app.goo.gl/iQbHL8SQwgVrar3m6)
+![national-cancer-institute-L8tWZT4CcVQ-unsplash](https://github.com/kumodcodes/Health-Insurance-Management_WebPages/assets/116749725/0c287858-1398-49bc-b188-004d8da418b3)
+
 
 ## Introduction
 The Health Insurance Management System is a web-based application developed as a part of a university project. It is designed to streamline the process of managing health insurance policies, claims, and customer information. The system aims to provide a user-friendly interface for both administrators and users to efficiently handle various tasks related to health insurance.
