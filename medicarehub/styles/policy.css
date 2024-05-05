@@ -1,0 +1,134 @@
+/*-------------------------------- Policy-Banner ------------------------------*/
+.policy-banner{
+  color:white;
+  width:85%;
+  text-align:center;
+  position:relative;
+  top:50%;
+  left:50%;
+  transform:translate(-50%, -50%);
+}
+.policy-banner h1{
+  font-size:65px;
+  font-weight:bold;
+}
+.policy-banner p{
+  margin:10px 0 40px;
+  font-size:14px;
+}
+
+/*-------------------------------- Price-cards ------------------------------*/
+.price-cards{
+  display:flex;
+  justify-content:space-between;
+  margin:5%;
+}
+.card-price{
+  flex-basis:31%;
+  background:#d9f4ff;
+  text-align: center;
+  border-radius:10px;
+  padding:20px 12px;
+  margin-bottom:5%;
+  box-sizing:border-box;
+  transition: 0.15s;
+}
+.card-price a{
+  text-decoration:none;
+  color:black
+}
+.card-price h3{
+  font-weight:600;
+  margin:10px 0;
+}
+.card-price:hover{
+  box-shadow:0 0 20px 0px rgba(0,0,0,0.2);
+}
+.card-price h2{
+  font-size:30px;
+  color:rgb(77, 77, 77);
+}
+.card-price p{
+  color:#777;
+  font-size:14px;
+  font-weight:300;
+  line-height:22px;
+  padding:10px;
+}
+
+/*-------------------------------- Inquiries ------------------------------*/
+.inquiries-form{
+  display:flex;
+  align-items:center;
+  flex-wrap:wrap;
+  margin:5%;
+}
+.inquiries-left-col,.inquiries-right-col{
+  flex-basis:50%;
+}
+inquiries-left-col ,h1{
+  font-size: 40px;
+}
+.inquiries-right-col{
+  width:100%;
+}
+.inquiries-right-col,img{
+  width:100%;
+  border-radius: 100px;
+}
+
+form{
+  max-width:350px;
+  margin:30px 0;
+}
+form input{
+  width:100%;
+  padding:12px 10px;
+  margin-bottom:5px;
+  box-sizing:border-box;
+  outline:none;
+  border:2px solid #92daf7;
+  border-radius:10px;
+}
+.text-box{
+  height:100px;
+}
+
+.btnRow {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.btnRow button,
+.btnRow a {
+  flex-basis: 50%;
+  text-align: center;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+  margin:5px;
+  transition:0.25s;
+}
+
+.btnSubmit {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+}
+
+.btnSubmit:hover {
+  background-color: #0056b3;
+}
+
+.btnEdit {
+  background-color: #fff;
+  color: #000000;
+  border: 1px solid #007bff;
+}
+
+.btnEdit:hover {
+  background-color: #007bff;
+  color:#fff;
+}

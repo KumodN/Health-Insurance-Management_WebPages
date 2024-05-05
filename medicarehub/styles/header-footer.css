@@ -1,0 +1,177 @@
+*{
+  margin:0;
+  padding:0;
+  font-family:sans-serif;
+}
+.container {
+  margin-right:100px;
+  margin-left:100px;
+}
+/*-------------------------------- Header ------------------------------*/
+.header{
+  background: linear-gradient(135deg, #007bff, #6b0b84);
+  height:100vh;
+  background-size:cover;
+  background-position:center;
+} 
+.header nav{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:2% 6%;
+}
+.header nav img{
+  width:100px;
+  border-radius:100px;
+}
+.nav-menu{
+  flex:1;
+  text-align:right;
+}
+.nav-menu ul li{
+  list-style:none;
+  display:inline-block;
+  padding:8px 10px;
+  position:relative
+}
+.nav-menu ul li a{
+  color:white;
+  text-decoration:none;
+  font-size:13px;
+}
+
+/*-------------------------------- SideNav ------------------------------*/
+#sideNav{
+  width:250px;
+  height:100vh;
+  position:fixed;
+  right:-250px;
+  top:0;
+  background:#007bff;
+  z-index:2;
+  transition:0.5s;
+
+}
+
+nav ul li{
+  list-style:none;
+  margin:50px 20px;
+
+}
+
+nav ul li a{
+  text-decoration:none;
+  color:white;
+
+}
+
+#menuBtn{
+  width:50px;
+  position:fixed;
+  right:65px;
+  top:35px;
+  z-index:2;
+  cursor:pointer;
+  border-radius: 100px;
+}
+
+/*-------------------------------- Footer ------------------------------*/
+#footer{
+  padding:30px 0 20px;
+}
+
+hr{
+  width:100%;
+  border:0;
+  border-top:1px solid #007bff;
+}
+
+.footer-row{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  flex-wrap:wrap;
+}
+
+.footer-left-col{
+  flex-basis:50%;
+  margin-top:60px;
+}
+
+.footer-right-col{
+  flex-basis:35%;
+
+}
+
+.footer-links{
+  display:flex;
+  justify-content:space-between;
+  flex-wrap:wrap;
+}
+.link-title h4{
+  color:#007bff;
+  margin-bottom:20px;
+
+}
+.link-title small{
+  font-size:13px;
+  color:#777;
+}
+
+.footer-info{
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  flex-wrap:wrap;
+}
+
+.footer-logo img{
+  width:100px;
+
+}
+
+.footer-logo button{
+  padding:12px 38px;
+  margin-top:20px;
+  font-size:10px;
+
+}
+
+.copyright-text,.footer-logo{
+  flex-basis:40%;
+}
+
+.link-title a{
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+/* ----social-icons---- */
+
+.footer-icons{
+  align-items: center;
+  margin:0px 150px;
+
+}
+
+.footer-icons i{
+  color:#007bff;
+  width:100px;
+
+}
+.footer-icons a{
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+
+.footer-copyright{
+  display:flex;
+  color:#777;
+  font-size:smaller;
+  margin-top:50px;
+  align-items: center;
+}
+.footer-copyright p{
+  margin:auto;
+}
