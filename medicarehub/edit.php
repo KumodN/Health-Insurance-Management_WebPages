@@ -142,7 +142,7 @@
           <a href=""><small>Contact us</small></a>
         </div>
         <div class="link-title">
-          <h4>Explore</h4>
+          <h4>Explores</h4>
           <a href=""><small>Find a nonprofit</small></a><br>
           <a href=""><small>Co-operate solution</small></a>
         </div>
