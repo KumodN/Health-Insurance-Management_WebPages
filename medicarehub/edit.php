@@ -134,7 +134,7 @@
         <div class="link-title">
           <h4>About us</h4>
           <a href=""><small>Our Blog</small><br></a>
-          <a href=""><small>FAQs</small></a>
+          <a href=""><small>FAQ</small></a>
         </div>
         <div class="link-title">
           <h4>Get in touch</h4>
@@ -142,7 +142,7 @@
           <a href=""><small>Contact us</small></a>
         </div>
         <div class="link-title">
-          <h4>Explore</h4>
+          <h4>Explores</h4>
           <a href=""><small>Find a nonprofit</small></a><br>
           <a href=""><small>Co-operate solution</small></a>
         </div>
