@@ -47,7 +47,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Policy And Pricing</title>
+  <title>Policy And Pricings</title>
   <link rel="stylesheet" href="styles/edit.css">
   <link rel="stylesheet" href="styles/header-footer.css">
   <script src="https://kit.fontawesome.com/03308f9fa2.js" crossorigin="anonymous"></script>
