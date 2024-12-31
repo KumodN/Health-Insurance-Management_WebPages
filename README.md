@@ -1,6 +1,6 @@
 # Health Insurance Management System
 
-![national-cancer-institute-L8tWZT4CcVQ-unsplash](https://github.com/kumodcodes/Health-Insurance-Management_WebPages/assets/116749725/0c287858-1398-49bc-b188-004d8da418b3)
+![national-cancer-institute-L8tWZT4CcVQ-unsplash](https://github.com/kumodN/Health-Insurance-Management_WebPages/assets/116749725/0c287858-1398-49bc-b188-004d8da418b3)
 
 
 ## Introduction
@@ -20,7 +20,7 @@ The Health Insurance Management System is a web-based application developed as a
 - **Database:** MySQL
 
 ## Installation
-1. Clone the repository:https://github.com/kumodcodes/Health-Insurance-Management_WebPages
+1. Clone the repository:https://github.com/kumodN/Health-Insurance-Management_WebPages
 2. Import the database schema from `includes/database.sql` into your MySQL database.
 3. Configure the database connection settings in `includes/config.php`.
 4. Upload the project files to your web server.
@@ -34,7 +34,7 @@ The Health Insurance Management System is a web-based application developed as a
   ***** NOTE - THIS PROJECT IS CURRENTLY UNDER CONSTRUCTION. THERE MAY BE SEVERE ISSUES IN FUNCTIONALITIES!!! *****
 
 ## Contributors
-- Kumod De Silva (@kumodcodes)
+- Kumod De Silva (@kumodN)
 - Savindu Thisanga (@Savinduthisanga)
 - Malindu Jayawickrama
 - Tharuka Umayanga
