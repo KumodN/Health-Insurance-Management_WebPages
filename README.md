@@ -40,5 +40,11 @@ The Health Insurance Management System is a web-based application developed as a
 - Tharuka Umayanga
 - Lakshan 
 
+## Screenshots
+![project1](https://github.com/user-attachments/assets/eb869bfb-6cf4-45da-a78d-5d169df8d5d4)
+![Screenshot 2025-06-27 191125](https://github.com/user-attachments/assets/763254ef-a001-4b0c-bbe3-2b21c5a7137d)
+
+
+
 ## License
 This project is currently under no license.
